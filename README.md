@@ -10,7 +10,7 @@
 # 📱 App Android Teste da MadeInWeb
 
 Este é um aplicativo Android desenvolvido em **Kotlin**, utilizando **MVVM + Hilt** para a tela em XML e **MVI + Koin** para a tela em Compose.  
-O projeto foi criado como teste pratico para a MadeInWeb, e de boas práticas de arquitetura, UI em XML/Compose e integração com ViewModels.
+O projeto foi criado como teste pratico para a MadeInWeb, de boas práticas de arquitetura, UI em XML/Compose e integração com ViewModels.
 
 ---
 
