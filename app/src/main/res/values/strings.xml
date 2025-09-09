@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TesteAndroid - MadeInWeb</string>
+    <string name="login_flow_xml_label_button">Fluxo de login (XML + MVVM + Hilt)</string>
+    <string name="login_flow_compose_label_button">Fluxo de login (Compose + MVI + Koin)</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_password">Senha</string>
+    <string name="label_register">Cadastre-se</string>
+    <string name="label_divider">|</string>
+    <string name="label_forgot_password">Esqueci minha senha</string>
+    <string name="label_button_login">Entrar</string>
+    <string name="label_login_success">Login efetuado com sucesso!</string>
+</resources>
