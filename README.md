@@ -1,6 +1,9 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.0-blue?logo=kotlin)
-![Android](https://img.shields.io/badge/Android-12-green?logo=android)
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-stable-blue?logo=jetpackcompose)
+![Hilt](https://img.shields.io/badge/Hilt-DI-orange?logo=dagger)
+![Koin](https://img.shields.io/badge/Koin-DI-purple)
+![Material3](https://img.shields.io/badge/Material-3-blue?logo=materialdesign)
+![Android](https://img.shields.io/badge/Android-7.0%2B-green?logo=android)
 ![License](https://img.shields.io/github/license/Vinicius92/TesteAndroidMadeInWeb)
 
 
