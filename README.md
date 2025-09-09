@@ -1,7 +1,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.0-blue?logo=kotlin)
 ![Android](https://img.shields.io/badge/Android-12-green?logo=android)
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-stable-blue?logo=jetpackcompose)
-![License](https://img.shields.io/badge/license-MIT-purple)
+![License](https://img.shields.io/github/license/Vinicius92/TesteAndroidMadeInWeb)
 
 
 # 📱 App Android Teste da MadeInWeb
